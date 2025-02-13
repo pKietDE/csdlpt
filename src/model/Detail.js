@@ -1,1 +1,0 @@
-const { sql, poolPromise} = require('../config/database')
